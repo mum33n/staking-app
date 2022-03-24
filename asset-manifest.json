@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/staking-app/static/css/main.942cb93b.css",
-    "main.js": "/staking-app/static/js/main.63008d56.js",
+    "main.css": "/staking-app/static/css/main.72914be7.css",
+    "main.js": "/staking-app/static/js/main.65fe3f0c.js",
     "static/js/787.d42b87b0.chunk.js": "/staking-app/static/js/787.d42b87b0.chunk.js",
     "static/media/ALGOINU 200.png": "/staking-app/static/media/ALGOINU 200.423992c2de1b775d2fe2.png",
     "index.html": "/staking-app/index.html",
-    "main.942cb93b.css.map": "/staking-app/static/css/main.942cb93b.css.map",
-    "main.63008d56.js.map": "/staking-app/static/js/main.63008d56.js.map",
+    "main.72914be7.css.map": "/staking-app/static/css/main.72914be7.css.map",
+    "main.65fe3f0c.js.map": "/staking-app/static/js/main.65fe3f0c.js.map",
     "787.d42b87b0.chunk.js.map": "/staking-app/static/js/787.d42b87b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.942cb93b.css",
-    "static/js/main.63008d56.js"
+    "static/css/main.72914be7.css",
+    "static/js/main.65fe3f0c.js"
   ]
 }
