@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/staking-app/static/css/main.72914be7.css",
-    "main.js": "/staking-app/static/js/main.4cd379f1.js",
+    "main.js": "/staking-app/static/js/main.0c715977.js",
     "static/js/787.d42b87b0.chunk.js": "/staking-app/static/js/787.d42b87b0.chunk.js",
     "static/media/ALGOINU 200.png": "/staking-app/static/media/ALGOINU 200.423992c2de1b775d2fe2.png",
     "index.html": "/staking-app/index.html",
     "main.72914be7.css.map": "/staking-app/static/css/main.72914be7.css.map",
-    "main.4cd379f1.js.map": "/staking-app/static/js/main.4cd379f1.js.map",
+    "main.0c715977.js.map": "/staking-app/static/js/main.0c715977.js.map",
     "787.d42b87b0.chunk.js.map": "/staking-app/static/js/787.d42b87b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72914be7.css",
-    "static/js/main.4cd379f1.js"
+    "static/js/main.0c715977.js"
   ]
 }
